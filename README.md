@@ -36,6 +36,18 @@ This repository contains Playwright learning examples and setup verification scr
   - `var_Hoisting.js` — var hoisting examples
   - `var_let_const.js` — Comparison of var, let, and const
 
+- `chapter_05_Operator/` — JavaScript operators
+  - `Arithmetic_operators.js` — Arithmetic operators examples
+  - `Assignment_operators.js` — Assignment operators examples
+  - `Comparision_operators.js` — Comparison operators examples
+  - `Incr_Decr_operator.js` — Increment and decrement operators
+  - `Logical_operator.js` — Logical operators (AND, OR, NOT)
+  - `Null_operator.js` — Null coalescing and optional chaining operators
+  - `Operator_Basic.js` — Basic operator concepts
+  - `String_concatinate.js` — String concatenation operators
+  - `Ternary_Operator.js` — Ternary conditional operator
+  - `Type_operator.js` — typeof and instanceof operators
+
 ## Getting Started
 
 1. Install dependencies:
