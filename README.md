@@ -40,7 +40,9 @@ This repository contains Playwright learning examples and setup verification scr
   - `Arithmetic_operators.js` — Arithmetic operators examples
   - `Assignment_operators.js` — Assignment operators examples
   - `Comparision_operators.js` — Comparison operators examples
-  - `Incr_Decr_operator.js` — Increment and decrement operators
+  - `Decr_operator.js` — Decrement operator examples
+  - `Incr_operator.js` — Increment operator examples
+  - `Incr_Decr_task.js` — Increment and decrement operator tasks
   - `Logical_operator.js` — Logical operators (AND, OR, NOT)
   - `Null_operator.js` — Null coalescing and optional chaining operators
   - `Operator_Basic.js` — Basic operator concepts
