@@ -50,6 +50,24 @@ This repository contains Playwright learning examples and setup verification scr
   - `Ternary_Operator.js` — Ternary conditional operator
   - `Type_operator.js` — typeof and instanceof operators
 
+- `chapter_06_Statements/` — JavaScript conditional statements
+  - `If_Else.js` — if-else statement examples
+  - `if_elseif_else.js` — if-else if-else statements
+  - `if_ifelse.js` — if statements with nesting
+  - `if_else_real.js` — Real-world if-else examples
+  - `API_if_else.js` — if-else with API scenarios
+  - `Real_if_else.js` — Real-world conditional logic
+  - `IQ.js` — Intelligence quotient problem exercises
+  - `IQ2.js` — Additional IQ problem exercises
+  - `IQ_even_odd.js` — Even and odd number checker
+  - `IQ_grade_calcu.js` — Grade calculation logic
+  - `IQ_Leap_year.js` — Leap year validation
+  - `IQ_Login_Lockout.js` — Login lockout logic
+  - `IQ_StatusCode.js` — HTTP status code logic
+  - `IQ_Test_Pass_Fail.js` — Test pass/fail determination
+  - `IQ_Bug_Severity.js` — Bug severity classification
+  - `IQ_Build_Health.js` — Build health status logic
+
 ## Getting Started
 
 1. Install dependencies:
