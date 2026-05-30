@@ -83,6 +83,22 @@ This repository contains Playwright learning examples and setup verification scr
 - `chapter_08_userInput/` — User input handling
   - `User_input.js` — User input examples and exercises
 
+- `chapter_09_Loops/` — JavaScript loops
+  - `for_basic.js` — Basic for loop examples
+  - `for_loop2.js` — Advanced for loop examples
+  - `for_IQ.js` — For loop problem exercises
+  - `while_basic.js` — Basic while loop examples
+  - `while_IQ.js` — While loop problem exercises
+  - `do_while_basic.js` — Basic do-while loop examples
+  - `do_while_real.js` — Real-world do-while examples
+  - `do_while_IQ.js` — Do-while loop problem exercises
+  - `IQ_while_do_while.js` — While and do-while comparison exercises
+  - `IQ_tricky.js` — Tricky loop problem exercises
+
+- `coading/` — Practice coding challenges
+  - `FizzBuzz.js` — FizzBuzz algorithm implementation
+  - `Triangle_classifier.js` — Triangle classification algorithm
+
 ## Getting Started
 
 1. Install dependencies:
