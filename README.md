@@ -68,6 +68,21 @@ This repository contains Playwright learning examples and setup verification scr
   - `IQ_Bug_Severity.js` — Bug severity classification
   - `IQ_Build_Health.js` — Build health status logic
 
+- `chapter_07_Switch_Statement/` — JavaScript switch statements
+  - `switch.js` — Basic switch statement examples
+  - `default.js` — Default case in switch statements
+  - `no_break.js` — Switch without break statements
+  - `switch_group.js` — Grouping cases in switch statements
+  - `realtime_API.js` — Real-world API status switch examples
+  - `IQ1.js` — Switch problem exercises 1
+  - `IQ2.js` — Switch problem exercises 2
+  - `IQ3.js` — Switch problem exercises 3
+  - `IQ4.js` — Switch problem exercises 4
+  - `IQ5.js` — Switch problem exercises 5
+
+- `chapter_08_userInput/` — User input handling
+  - `User_input.js` — User input examples and exercises
+
 ## Getting Started
 
 1. Install dependencies:
