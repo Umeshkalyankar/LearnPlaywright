@@ -1,0 +1,24 @@
+Arrays - is used to store multiples values in a single variable.
+       - its collection of items.
+
+// without array:
+let user1 = "Admin";
+let user2 = "Manager";
+let user3 = "Tester";
+
+syntax: let fruits = []; // empty array []
+
+        let fruits = ["apple", "mango", "banana"];       
+        // length - 3, index - 0,1,2
+
+- Array indexing starts with '0'
+- we can access array but if its not available then result will be 'undefined'
+- mixture of array is possible - combination of data types in one array
+ex. let mixed = [1, "mango", true, null];
+
+- Arrays stored in continuous memory.
+
+
+// Array Literal (Most Used ✅) - This is the easiest and most common method.
+
+ex. let fruits = ["Apple", "Mango", "Banana"];
