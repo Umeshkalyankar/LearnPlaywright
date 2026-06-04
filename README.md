@@ -94,6 +94,18 @@ This repository contains Playwright learning examples and setup verification scr
   - `do_while_IQ.js` — Do-while loop problem exercises
   - `IQ_while_do_while.js` — While and do-while comparison exercises
   - `IQ_tricky.js` — Tricky loop problem exercises
+  - `Practice.js` — Loop practice exercises
+
+- `chapter_10_Arrays/` — JavaScript arrays
+  - `Arrays_basic.js` — Basic array concepts
+  - `Creating_arrays.js` — Creating and initializing arrays
+  - `Access_Array.js` — Accessing array elements
+  - `Iterate.js` — Iterating through arrays
+  - `Adding_Removing_Arrays.js` — Adding and removing elements
+  - `Adding_Remove2.js` — Advanced add/remove operations
+  - `Searching.js` — Searching within arrays
+  - `Transform_Arrays.js` — Array transformation methods
+  - `Real_Array.js` — Real-world array examples
 
 - `coading/` — Practice coding challenges
   - `FizzBuzz.js` — FizzBuzz algorithm implementation
