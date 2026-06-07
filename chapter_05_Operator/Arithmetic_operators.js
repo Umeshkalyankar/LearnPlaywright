@@ -9,6 +9,7 @@ console.log(a / b); // / is an operator which divides 2 values
 console.log(a % b); // % modulus - is an operator which divides - it will give reminder
 
 console.log(37 % 3);
+console.log(18 % 2);
 
 // modulus operator - it will return reminder
 // n%2 == even number - it will return 0
