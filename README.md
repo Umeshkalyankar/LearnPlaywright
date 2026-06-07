@@ -111,6 +111,9 @@ This repository contains Playwright learning examples and setup verification scr
   - `every_and_some.js` — every() and some() array methods
   - `Real_Array.js` — Real-world array examples
 
+- `chapter_11_Functions/` — JavaScript functions
+  - `basic_function.js` — Basic function definition and calling
+
 - `coading/` — Coding challenges and problems
   - `FizzBuzz.js` — FizzBuzz problem implementation
   - `Triangle_classifier.js` — Triangle classification problem
