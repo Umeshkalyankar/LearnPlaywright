@@ -71,45 +71,49 @@ This repository contains Playwright learning examples and setup verification scr
 - `chapter_07_Switch_Statement/` — JavaScript switch statements
   - `switch.js` — Basic switch statement examples
   - `default.js` — Default case in switch statements
-  - `no_break.js` — Switch without break statements
-  - `switch_group.js` — Grouping cases in switch statements
+  - `no_break.js` — Switch without break statements (fall-through)
+  - `switch_group.js` — Grouped cases in switch statements
   - `realtime_API.js` — Real-world API status switch examples
-  - `IQ1.js` — Switch problem exercises 1
-  - `IQ2.js` — Switch problem exercises 2
-  - `IQ3.js` — Switch problem exercises 3
-  - `IQ4.js` — Switch problem exercises 4
-  - `IQ5.js` — Switch problem exercises 5
+  - `IQ1.js` through `IQ5.js` — Switch statement problem exercises
 
-- `chapter_08_userInput/` — User input handling
-  - `User_input.js` — User input examples and exercises
+- `chapter_08_userInput/` — Handling user input
+  - `User_input.js` — User input handling examples
 
-- `chapter_09_Loops/` — JavaScript loops
+- `chapter_09_Loops/` — JavaScript loop constructs
   - `for_basic.js` — Basic for loop examples
-  - `for_loop2.js` — Advanced for loop examples
+  - `for_loop2.js` — Additional for loop examples
   - `for_IQ.js` — For loop problem exercises
   - `while_basic.js` — Basic while loop examples
   - `while_IQ.js` — While loop problem exercises
   - `do_while_basic.js` — Basic do-while loop examples
   - `do_while_real.js` — Real-world do-while examples
-  - `do_while_IQ.js` — Do-while loop problem exercises
+  - `do_while_IQ.js` — Do-while problem exercises
   - `IQ_while_do_while.js` — While and do-while comparison exercises
-  - `IQ_tricky.js` — Tricky loop problem exercises
+  - `IQ_tricky.js` — Tricky loop problems
   - `Practice.js` — Loop practice exercises
 
-- `chapter_10_Arrays/` — JavaScript arrays
-  - `Arrays_basic.js` — Basic array concepts
+- `chapter_10_Arrays/` — JavaScript arrays and array methods
   - `Creating_arrays.js` — Creating and initializing arrays
+  - `Arrays_basic.js` — Basic array operations
   - `Access_Array.js` — Accessing array elements
-  - `Iterate.js` — Iterating through arrays
+  - `checking_Array.js` — Checking array contents
   - `Adding_Removing_Arrays.js` — Adding and removing elements
-  - `Adding_Remove2.js` — Advanced add/remove operations
-  - `Searching.js` — Searching within arrays
-  - `Transform_Arrays.js` — Array transformation methods
+  - `slice_basic.js` — Array slice method
+  - `splice.js` — Array splice method
+  - `diff_slice&splice.js` — Difference between slice and splice
+  - `real_slice_ex.js` — Real-world slice examples
+  - `concat.js` — Array concatenation
+  - `Iterate.js` — Array iteration methods
+  - `Searching.js` — Array search methods (find, indexOf, includes)
+  - `sort.js` — Sorting arrays
+  - `real_sorting.js` — Real-world sorting examples
+  - `Transform_Arrays.js` — Array transformation (map, filter, reduce)
+  - `every_and_some.js` — every() and some() array methods
   - `Real_Array.js` — Real-world array examples
 
-- `coading/` — Practice coding challenges
-  - `FizzBuzz.js` — FizzBuzz algorithm implementation
-  - `Triangle_classifier.js` — Triangle classification algorithm
+- `coading/` — Coding challenges and problems
+  - `FizzBuzz.js` — FizzBuzz problem implementation
+  - `Triangle_classifier.js` — Triangle classification problem
 
 ## Getting Started
 

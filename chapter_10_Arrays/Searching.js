@@ -2,7 +2,7 @@
 
 // 1. indexOf() (Most Basic) - Returns the index of the element.
 let results = ["pass", "fail", "pass", "error", "fail"];
-console.log(results.indexOf("fail")); // 1
+console.log(results.indexOf("error")); // 3
 console.log(results.indexOf("skip")); // Remember: -1 means "not found".
 
 // lastIndexOf - Searches from end
