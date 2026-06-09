@@ -1,0 +1,209 @@
+✅ Function creation  > function login() { }
+
+✅ Function calling   > login();
+
+✅ Parameters         > function login(user) { }
+
+✅ Arguments          > login("admin");
+
+✅ console.log()      > console.log(value);
+
+✅ return             > return value;
+
+========================================================================================
+
+# JavaScript Functions - Notes
+
+## What is a Function? > A function is a reusable block of code that performs a specific task.
+
+Benefits:
+* Avoids code repetition
+* Improves code reusability
+* Makes code easier to maintain
+* Widely used in automation frameworks like Playwright
+
+-----------------------------------------------------------------------------------------
+
+## Function Syntax:
+Step-1: Declaration
+
+function functionName() {
+    // code
+}
+-----------------------------------------------------------------------------------------
+
+Example:
+
+function login() {
+    console.log("Login");
+}
+
+-----------------------------------------------------------------------------------------
+
+Step-2: Calling a Function > A function executes only when it is called.
+
+login();
+-----------------------------------------------------------------------------------------
+
+## Function Name > The identifier used to call the function.
+
+function login() { }
+
+Here: login > is the function name.
+
+-----------------------------------------------------------------------------------------
+
+## Parameters > Parameters are variables defined inside the function parentheses.
+              > They act as placeholders to receive values.
+
+function login(username) {}
+
+
+Here: username > is a parameter.
+
+-
+
+## Arguments > Arguments are the actual values passed when calling a function.
+login("admin");
+
+
+Here: "admin" > is an argument.
+-----------------------------------------------------------------------------------------
+##   Parameter vs Argument
+
+function login(username) {
+}
+
+login("admin");
+
+Parameter: > username
+Argument:  > "admin"
+-----------------------------------------------------------------------------------------
+
+## Multiple Parameters > A function can accept multiple parameters.
+
+function login(username, password) {
+}
+```
+Call:
+login("admin", "admin123");
+-----------------------------------------------------------------------------------------
+## console.log() > Used to display output on the console.
+
+function greet(name) {
+    console.log(name);
+}
+```
+Example:
+greet("Umesh");
+
+Output:
+Umesh
+-----------------------------------------------------------------------------------------
+## Return Statement > Used to send a value back from a function.
+
+function getUser() {
+    return "admin";
+}
+
+Example:
+let user = getUser();
+
+Now: > user = "admin"
+-----------------------------------------------------------------------------------------
+## Difference Between console.log() and return
+
+### console.log()
+
+Displays value on screen.
+
+```javascript
+function getUser() {
+    console.log("admin");
+}
+```
+
+Output:
+
+```text
+admin
+```
+
+---
+
+### return
+
+Sends value back to caller.
+
+```javascript
+function getUser() {
+    return "admin";
+}
+```
+
+Example:
+
+```javascript
+let user = getUser();
+```
+
+Value stored:
+
+```javascript
+admin
+```
+
+---
+
+## Functions Without Return
+
+If a function does not explicitly return a value, JavaScript returns:
+
+```javascript
+undefined
+```
+
+Example:
+
+```javascript
+function test() {
+    console.log("Hello");
+}
+```
+
+Equivalent to:
+
+```javascript
+function test() {
+    console.log("Hello");
+    return undefined;
+}
+```
+
+---
+
+## Key Interview Points
+
+1. Function = reusable block of code.
+2. Parameters = inputs defined in function declaration.
+3. Arguments = actual values passed during function call.
+4. console.log() prints values.
+5. return sends values back to the caller.
+6. Functions without return automatically return undefined.
+7. A function executes only when called.
+
+---
+
+## Playwright Perspective
+
+Functions are commonly used to create reusable actions such as:
+
+```javascript
+login()
+logout()
+searchProduct()
+addToCart()
+checkout()
+```
+
+Instead of repeating the same automation steps multiple times.

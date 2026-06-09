@@ -112,7 +112,24 @@ This repository contains Playwright learning examples and setup verification scr
   - `Real_Array.js` — Real-world array examples
 
 - `chapter_11_Functions/` — JavaScript functions
-  - `basic_function.js` — Basic function definition and calling
+  - `Fn_Declaration.js` — Function declaration syntax
+  - `Fn_Declaration_examples.js` — Function declaration examples
+  - `Fn_Expression.js` — Function expression syntax
+  - `Fn_Expression_examples.js` — Function expression examples
+  - `Diff_Fn_Declaration_Expression.js` — Differences between declarations and expressions
+  - `Arrow_Function.js` — Arrow function syntax
+  - `Arraow_Real.js` — Real-world arrow function examples
+  - `Default_Parameter.js` — Functions with default parameters
+  - `Rest_Para_Function.js` — Rest parameters in functions
+  - `IIFE.js` — Immediately Invoked Function Expressions
+  - `Type1_basic_function.js` — Basic function type
+  - `Type2_Fn_With_Para_No_Return.js` — Functions with parameters, no return
+  - `Type3_Fn_Without_Para_Return_Type.js` — Functions without parameters, with return
+  - `Type4_Fn_With_Para_With_Return.js` — Functions with parameters and return values
+  - `IQ.js` — Function problem exercises
+  - `IQ_Default_Para.js` — Default parameter problem exercises
+  - `Templete_literal.js` — Template literals in functions
+  - `Function_Doc file.txt` — Function documentation
 
 - `coading/` — Coding challenges and problems
   - `FizzBuzz.js` — FizzBuzz problem implementation
