@@ -126,6 +126,10 @@ This repository contains Playwright learning examples and setup verification scr
   - `Type2_Fn_With_Para_No_Return.js` — Functions with parameters, no return
   - `Type3_Fn_Without_Para_Return_Type.js` — Functions without parameters, with return
   - `Type4_Fn_With_Para_With_Return.js` — Functions with parameters and return values
+  - `closure.js` — Closure concept and examples
+  - `closure_with_arrow.js` — Closures with arrow functions
+  - `Pure_function.js` — Pure functions and functional programming concepts
+  - `Higher_Order_Function.js` — Higher-order functions
   - `IQ.js` — Function problem exercises
   - `IQ_Default_Para.js` — Default parameter problem exercises
   - `Templete_literal.js` — Template literals in functions
