@@ -135,9 +135,13 @@ This repository contains Playwright learning examples and setup verification scr
   - `Templete_literal.js` — Template literals in functions
   - `Function_Doc file.txt` — Function documentation
 
+- `chapter_12_String/` — JavaScript string manipulation
+  - String methods and manipulation examples
+
 - `coading/` — Coding challenges and problems
   - `FizzBuzz.js` — FizzBuzz problem implementation
   - `Triangle_classifier.js` — Triangle classification problem
+  - `Reverse_String.js` — String reversal and palindrome checking
 
 ## Getting Started
 
