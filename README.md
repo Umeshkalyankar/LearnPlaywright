@@ -138,6 +138,30 @@ This repository contains Playwright learning examples and setup verification scr
 - `chapter_12_String/` — JavaScript string manipulation
   - String methods and manipulation examples
 
+- `chapter_13_Objects/` — JavaScript objects and related examples
+  - `object_creation.js` — Object creation examples
+  - `objects.js` — Basic object usage
+  - `object_destructure.js` — Object destructuring examples
+  - `object_spread.js` — Object spread/rest examples
+  - `loop_in_objects.js` — Looping through object entries
+  - `objects_function.js` — Functions with objects
+  - `objects_real.js` — Real-world object examples
+  - `primitive_reference.js` — Primitive vs reference type behavior
+  - `Real_object_function.js` — Object and function examples
+  - `obj2.js` — Additional object examples
+
+- `chapter_14_2D_Array/` — 2D array and matrix examples
+  - `2D_Array.js` — 2D array basics
+  - `2D_Array_Function.js` — 2D array helper functions
+  - `2D_array_with_object.js` — 2D arrays with objects
+  - `Real_2d.js` — Real-world 2D array examples
+
+- `coading/` — Coding challenges and problems
+  - `FizzBuzz.js` — FizzBuzz problem implementation
+  - `Triangle_classifier.js` — Triangle classification problem
+  - `Reverse_String.js` — String reversal and palindrome checking
+  - `IQ_Right_Pyramid_patter.js` — Right pyramid pattern challenge
+
 - `coading/` — Coding challenges and problems
   - `FizzBuzz.js` — FizzBuzz problem implementation
   - `Triangle_classifier.js` — Triangle classification problem
