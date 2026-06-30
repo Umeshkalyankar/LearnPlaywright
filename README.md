@@ -156,16 +156,21 @@ This repository contains Playwright learning examples and setup verification scr
   - `2D_array_with_object.js` — 2D arrays with objects
   - `Real_2d.js` — Real-world 2D array examples
 
-- `coading/` — Coding challenges and problems
-  - `FizzBuzz.js` — FizzBuzz problem implementation
-  - `Triangle_classifier.js` — Triangle classification problem
-  - `Reverse_String.js` — String reversal and palindrome checking
-  - `IQ_Right_Pyramid_patter.js` — Right pyramid pattern challenge
+- `chapter_15_Callback/` — JavaScript callback functions
+  - `Sync_CB.js` — Synchronous callback examples
+  - `Async_CB.js` — Asynchronous callback examples
+  - `cb_fn.js` — Callback function utilities
+  - `CB_Return.js` — Returning values from callbacks
+  - `CB_Parameter.js` — Callback parameters and execution
+  - `CB_Hell.js` — Callback hell examples
+  - `PW_CB.js` — Playwright callback use cases
+  - `Real_Callback_Fn.js` — Real-world callback functions
 
 - `coading/` — Coding challenges and problems
   - `FizzBuzz.js` — FizzBuzz problem implementation
   - `Triangle_classifier.js` — Triangle classification problem
   - `Reverse_String.js` — String reversal and palindrome checking
+  - `IQ_Right_Pyramid_patter.js` — Right pyramid pattern challenge
 
 ## Getting Started
 
