@@ -4,12 +4,12 @@
 
 // Ex. Food delivery
 
-function orderFood(callback) {
+function orderFood(callback) {           // normal function
     console.log("Food is delivered!");
     callback();
 }
 
-function eat() {
+function eat() {               // callback function
     console.log("Eating Food");
 }
 
