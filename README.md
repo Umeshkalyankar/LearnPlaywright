@@ -1,6 +1,25 @@
 # LearnPlaywright
 
-This repository contains Playwright learning examples and setup verification scripts.
+This repository contains JavaScript and Playwright learning examples, practice scripts, and setup verification files for beginners and intermediate learners.
+
+## What You Will Find
+
+- Core JavaScript concepts from variables and operators to functions and async programming
+- Playwright basics and setup verification examples
+- Practice exercises and small coding challenges to reinforce learning
+
+## Getting Started
+
+1. Install Node.js and npm on your machine.
+2. Install project dependencies:
+   ```bash
+   npm install
+   ```
+3. Run a sample script using Node:
+   ```bash
+   node chapter_01_Basics/03_js_verifySetup.js
+   ```
+4. Explore the chapter folders in order to build your understanding step by step.
 
 ## Structure
 
