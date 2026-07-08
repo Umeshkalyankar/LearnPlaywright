@@ -21,6 +21,13 @@ This repository contains JavaScript and Playwright learning examples, practice s
    ```
 4. Explore the chapter folders in order to build your understanding step by step.
 
+## Recent Topics Covered
+
+- Callback functions and asynchronous patterns
+- Promises and promise chaining
+- Async/await with real-world examples
+- Practice exercises for JavaScript interview-style questions
+
 ## Structure
 
 - `chapter_01_Basics/` — Introduction to Playwright basics
