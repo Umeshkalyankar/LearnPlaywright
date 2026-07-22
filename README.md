@@ -26,6 +26,8 @@ This repository contains JavaScript and Playwright learning examples, practice s
 - Callback functions and asynchronous patterns
 - Promises and promise chaining
 - Async/await with real-world examples
+- Object-oriented programming with classes, objects, encapsulation, and inheritance
+- Playwright browser testing with a Cricbuzz title verification example
 - Practice exercises for JavaScript interview-style questions
 
 ## Structure
@@ -192,6 +194,14 @@ This repository contains JavaScript and Playwright learning examples, practice s
   - `PW_CB.js` — Playwright callback use cases
   - `Real_Callback_Fn.js` — Real-world callback functions
 
+- `chapter_18_OOPs_Concept/` — JavaScript object-oriented programming
+  - `Class_Objects/` — Classes and objects
+  - `Encapsulation/` — Encapsulation examples
+  - `Inheritance/` — Inheritance examples
+
+- `PlaywrightLearning/` — Playwright test automation examples
+  - `tests/cricbuzz.spec.ts` — Verifies the Cricbuzz page title
+
 - `coading/` — Coding challenges and problems
   - `FizzBuzz.js` — FizzBuzz problem implementation
   - `Triangle_classifier.js` — Triangle classification problem
@@ -209,6 +219,11 @@ This repository contains JavaScript and Playwright learning examples, practice s
    ```bash
    node chapter_01_Basics/03_js_verifySetup.js
    ```
+
+3. Run the Playwright tests:
+  ```bash
+  npx playwright test PlaywrightLearning/tests/cricbuzz.spec.ts
+  ```
 
 ## Notes
 
