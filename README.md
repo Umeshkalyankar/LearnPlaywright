@@ -1,6 +1,6 @@
 # LearnPlaywright
 
-A practical learning repository for JavaScript, TypeScript, and Playwright automation. It contains beginner-friendly examples, coding exercises, and browser automation scripts built for hands-on learning.
+A practical learning repository for JavaScript, TypeScript, and Playwright automation. It includes beginner-friendly examples, coding exercises, and browser automation scripts for real hands-on learning.
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project covers:
 - TypeScript basics and advanced concepts such as interfaces, enums, and generics
 - Asynchronous JavaScript using callbacks, promises, and async/await
 - Object-oriented programming concepts
-- Playwright setup, browser automation, and end-to-end test examples
+- Playwright fundamentals, browser automation, and end-to-end testing
 
 ## Repository Structure
 
@@ -37,7 +37,7 @@ This project covers:
 - `chapter_21_ENUMs/` — Enum concepts and usage
 - `Chapter_22_Typescript_Generics/` — Generic programming examples
 - `chatper_23_PUBLIC_PRIVATE_PROTECTED/` — Access modifier learning examples
-- `PlaywrightLearning/` — Playwright test scripts and browser tests
+- `chapter_24_PlaywrightFundamentals/` — Playwright basics, config setup, and browser automation
 - `coading/` — Coding challenges and practice programs
 
 ## Getting Started
@@ -59,10 +59,11 @@ npm install
 node chapter_01_Basics/03_js_verifySetup.js
 ```
 
-### Run Playwright tests
+### Run Playwright tests from the fundamentals folder
 
 ```bash
-npx playwright test PlaywrightLearning/tests/cricbuzz.spec.ts
+cd chapter_24_PlaywrightFundamentals
+npx playwright test
 ```
 
 ## Learning Journey
@@ -79,8 +80,8 @@ This repository is organized to help learners move step by step from:
 ## Notes
 
 - The project is designed for learning by doing.
-- Each chapter contains small focused examples that can be run independently.
-- You can extend this repo by adding more scripts and automation scenarios as you continue learning.
+- Each chapter contains focused examples that can be run independently.
+- The Playwright fundamentals folder includes the project configuration and test files for browser automation practice.
 
 ## License
 
