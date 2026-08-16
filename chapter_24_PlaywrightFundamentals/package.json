@@ -1,0 +1,21 @@
+{
+  "name": "playwrightlearning",
+  "version": "1.0.0",
+  "description": "Playwright learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "keywords": [
+    "playwright",
+    "testing"
+  ],
+  "author": "Umesh Kalyankar",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0"
+  }
+}
